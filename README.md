@@ -55,7 +55,7 @@ This project is licensed under the MIT License.
 Contact
 For any inquiries or suggestions, please contact us at:
 
-Email: your.email@example.com
-GitHub: @yourusername
+Email: zhangjojo31@gmail.com
+GitHub: @junkerman2004
 "Predicting the future, one degree at a time."
 
